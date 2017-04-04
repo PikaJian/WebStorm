@@ -575,7 +575,6 @@
         <entry encoding="base64">bGVhZGVyPnNz</entry>
       </history-search>
       <history-cmd>
-        <entry>action OnlineDocAction</entry>
         <entry>action FindUsages</entry>
         <entry>left</entry>
         <entry>e ~/.ideavimrc</entry>
@@ -595,6 +594,7 @@
         <entry>w</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action InspectCode</entry>
+        <entry>arg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
