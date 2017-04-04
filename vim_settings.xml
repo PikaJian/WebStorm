@@ -23,13 +23,13 @@
         <mark key="^" line="192" column="5" />
         <mark key="." line="192" column="5" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1491253310639">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1491282241264">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="8" column="0" />
+        <mark key="[" line="0" column="18" />
         <mark key="m" line="91" column="4" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/electron-quick-start/package.json" timestamp="1491253053199">
         <mark key="[" line="18" column="6" />
@@ -552,7 +552,7 @@
         <text encoding="base64">aW5vcmVtYXAgPEMtSj4gPEVTQz46YWN0aW9uIEluc2VydExpdmVUZW1wbGF0ZTxDUj4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action InspectCode</text>
       </register>
     </registers>
     <search>
@@ -586,15 +586,15 @@
         <entry>split</entry>
         <entry>action FindNext</entry>
         <entry>W</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>wq</entry>
         <entry>action QuickFixed</entry>
         <entry>action QuickFixes</entry>
-        <entry>action InspectCode</entry>
         <entry>action Find</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>w</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action InspectCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
