@@ -77,12 +77,12 @@
       <file name="$USER_HOME$/Documents/javascript_project/videojs/README.markdown" timestamp="1485468017355">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/electron-quick-start/main.js" timestamp="1511622563035">
+      <file name="$USER_HOME$/electron-quick-start/main.js" timestamp="1511623237280">
         <mark key="'" line="28" column="6" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="26" column="5" />
-        <mark key="^" line="26" column="5" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="1" />
+        <mark key="." line="48" column="1" />
+        <mark key="^" line="48" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -551,7 +551,7 @@
         <text encoding="base64">aW5vcmVtYXAgPEMtSj4gPEVTQz46YWN0aW9uIEluc2VydExpdmVUZW1wbGF0ZTxDUj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByBlockComment</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -574,7 +574,6 @@
         <entry encoding="base64">bGVhZGVyPnNz</entry>
       </history-search>
       <history-cmd>
-        <entry>left</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>action Replace</entry>
         <entry>action ReplaceInPath</entry>
@@ -594,6 +593,7 @@
         <entry>action Find</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
