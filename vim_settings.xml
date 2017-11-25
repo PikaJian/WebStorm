@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1491244938887">
+      <file name="/Dummy.txt" timestamp="1511624275175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2017.1/bin/idea64.exe.vmoptions" timestamp="1491250384369">
@@ -23,12 +23,12 @@
         <mark key="^" line="192" column="5" />
         <mark key="." line="192" column="5" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1491332692908">
-        <mark key="[" line="0" column="18" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1511624398365">
+        <mark key="[" line="54" column="0" />
         <mark key="m" line="0" column="4" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
+        <mark key="]" line="54" column="4" />
+        <mark key="." line="54" column="4" />
+        <mark key="^" line="54" column="4" />
       </file>
       <file name="$USER_HOME$/electron-quick-start/package.json" timestamp="1491253053199">
         <mark key="[" line="18" column="6" />
@@ -42,6 +42,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="J:/pika_code/pika.code-workspace" timestamp="1511624013303" />
       <file name="$USER_HOME$/electron-quick-start/index.html" timestamp="1491253386812">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -551,7 +552,7 @@
         <text encoding="base64">aW5vcmVtYXAgPEMtSj4gPEVTQz46YWN0aW9uIEluc2VydExpdmVUZW1wbGF0ZTxDUj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -577,7 +578,6 @@
         <entry>e ~/.ideavimrc</entry>
         <entry>action Replace</entry>
         <entry>action ReplaceInPath</entry>
-        <entry>vsplit</entry>
         <entry>action AceLineAction</entry>
         <entry>split</entry>
         <entry>action FindNext</entry>
@@ -585,7 +585,6 @@
         <entry>wq</entry>
         <entry>action QuickFixed</entry>
         <entry>action QuickFixes</entry>
-        <entry>w</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action InspectCode</entry>
         <entry>arg</entry>
@@ -594,6 +593,8 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action GotoFile</entry>
+        <entry>vsplit</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
